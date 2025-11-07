@@ -4,8 +4,8 @@
 
 <strong>更新说明</strong>
 • <strong>2025.11.07</strong>版本数据已更新
-• 修复新精灵 [蟑螂恶霸] 技能描述异常的问题
 • 手册<strong>0.0.42</strong>版本已发布，可在手机上获取精灵、刻印仓库数据
+• 手册<strong>0.0.43</strong>版本已发布，修复了[数据注入]功能与Android10的兼容问题、新增[画廊]界面
 
 如遇其他问题，欢迎反馈：
-• <strong>Q群号码</strong>：494789051（推荐）
+• <strong>Q群号码</strong>：<a href="https://qm.qq.com/q/suqAh19Xpu">494789051</a>（推荐）
