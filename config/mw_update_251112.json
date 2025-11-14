@@ -1,7 +1,0 @@
-{
-    "code": 57,
-    "versionname": "0.0.51",
-    "content": "1.修复了【记忆档案馆】不显示精灵图像的问题\n2.修复了【精灵因子】未获取最新关卡数据的问题\n3.修复精灵图鉴【是否拥有】筛选条件无效的问题（重新【数据注入】一次后生效）",
-    "time": 1762953093000,
-    "download": "https://gcore.jsdelivr.net/gh/dawnnights/seerh5@main/MW%e6%89%8b%e5%86%8c0.0.51.Apk"
-}
