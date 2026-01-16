@@ -1,0 +1,10 @@
+<strong>更新说明</strong>
+• <strong>2026.01.16</strong>版本数据已更新
+• 推荐安装<strong>0.0.5</strong>及以上版本手册，修复了自动检测新版本并在线下载与安装的功能
+
+<strong>PY交易</strong>
+• 没有内幕的安利：https://crispww.cn/SEER/
+• 由热心大佬开发，同时支持<strong>android</strong>和<strong>ios</strong>上使用的赛尔手册，并且群里还有开发者进行的定期抽奖等福利
+
+如遇其他问题，欢迎反馈：
+• <strong>Q群号码</strong>：<a href="https://qm.qq.com/q/aZ7E0nbZ9C" target="_blank">231078576</a>
