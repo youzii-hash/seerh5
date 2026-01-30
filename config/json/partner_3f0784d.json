@@ -379,6 +379,16 @@
             "cost": 6,
             "bitbuf": 0,
             "choice": 33
+        },
+        {
+            "id": 39,
+            "type": "2",
+            "partnerName": "黄昏罪罚",
+            "partnerNumber": 2,
+            "partnerMonsterId": "4361|4867",
+            "cost": 6,
+            "bitbuf": 0,
+            "choice": 34
         }
     ]
 }
